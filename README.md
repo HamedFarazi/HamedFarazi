@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" alt="Random Dev Quote" />
 </p>
 
 ### 🔝 Top Contributed Repo
