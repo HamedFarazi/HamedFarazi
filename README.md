@@ -4,8 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%20modern%20web%20experiences" alt="Typing introduction" />
 </p>
 
-<p align="center"> ### ✍️ Random Dev Quote
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) </p>
+<p align="center">
+  ### ✍️ Random Dev Quote
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) 
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=HamedFarazi">
