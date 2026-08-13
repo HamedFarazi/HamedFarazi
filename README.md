@@ -115,6 +115,29 @@
   </a>
 </p>
 
+
+<h3 align="center">⚡ Top Languages</h3>
+
+<p align="center">
+  <a href="https://github.com/HamedFarazi">
+    <img
+      height="180"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamedFarazi&langs_count=8&layout=compact&theme=radical&border_radius=10"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HamedFarazi">
+    <img
+      src="https://stats.pphat.top/languages?username=HamedFarazi"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
