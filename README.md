@@ -118,15 +118,6 @@
 
 <h3 align="center">⚡ Top Languages</h3>
 
-<p align="center">
-  <a href="https://github.com/HamedFarazi">
-    <img
-      height="180"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamedFarazi&langs_count=8&layout=compact&theme=radical&border_radius=10"
-      alt="Top Languages"
-    />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/HamedFarazi">
