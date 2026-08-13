@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=HamedFarazi">
-    <img src="https://komarev.com/ghpvc/?username=HamedFarazi&label=Profile%20views&color=00FFFF&style=flat-square" alt="HamedFarazi's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=HamedFarazi&label=Profile%20views&color=00FFFF&style=flat-square" alt="HamedFarazi's profile views" width="100%" />
   </a>
 </p>
 
