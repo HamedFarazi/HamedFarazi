@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-### ✍️ Random Dev Quote
-
+Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=HamedFarazi">
-    <img src="https://komarev.com/ghpvc/?username=HamedFarazi&label=Profile%20views&color=00FFFF&style=flat-square" alt="HamedFarazi's profile views" width="100%" />
+    <img src="https://komarev.com/ghpvc/?username=HamedFarazi&label=Profile%20views&color=00FFFF&style=flat-square" alt="HamedFarazi's profile views" />
   </a>
 </p>
 
