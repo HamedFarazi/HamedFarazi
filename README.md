@@ -65,6 +65,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  
+  <h3 align="center">💻 Programming Languages</h3>
+<p align="center">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamedFarazi&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
   
 </p>
