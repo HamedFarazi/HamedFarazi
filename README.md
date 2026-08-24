@@ -33,23 +33,20 @@ projects.
 ⚛️ React & TypeScript focused  
 🛠️ Interested in clean UI, performance and developer experience
 
----
-## 🏆 Open Source Contributions
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Shopify/shopify-app-bridge/pull/577">
     <img src="https://img.shields.io/badge/Shopify-Open%20Source%20Contributor-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Open Source Contributor" />
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <strong>Shopify · shopify-app-bridge</strong><br/>
   Pull Request #577 · <strong>MERGED</strong>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   Contributed to the Shopify App Bridge open-source project.
-</p>
+</p> -->
 
 ---
 <p align="center">
