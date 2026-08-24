@@ -34,6 +34,24 @@ projects.
 🛠️ Interested in clean UI, performance and developer experience
 
 ---
+## 🏆 Open Source Contributions
+
+<p align="center">
+  <a href="https://github.com/Shopify/shopify-app-bridge/pull/577">
+    <img src="https://img.shields.io/badge/Shopify-Open%20Source%20Contributor-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Open Source Contributor" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Shopify · shopify-app-bridge</strong><br/>
+  Pull Request #577 · <strong>MERGED</strong>
+</p>
+
+<p align="center">
+  Contributed to the Shopify App Bridge open-source project.
+</p>
+
+---
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
